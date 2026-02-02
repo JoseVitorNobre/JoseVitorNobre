@@ -40,7 +40,7 @@
 
 **Goorg** → A personal organization system similar to softwares like Notion, Trello, and Evernote.  </br>
 **SIPPA2** → A redesign of an old academic system called SIPPA, whose function was to assist students in submitting assignments and viewing grades, as well as helping teachers configure grading. </br>
-**Magicdle** → A card guessing game based on Magic: The Gathering, similar to games like Pokedle and Loodle. </br>
+**Magicdle** → A card guessing game based on Magic: The Gathering, similar to games like Pokedle and Loldle. </br>
 
 ---
 
